@@ -1,0 +1,12 @@
+/Users/pauloortins/Projects/Settings/Settings/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/pauloortins/Projects/Settings/Settings/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/pauloortins/Projects/Settings/Settings/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/pauloortins/Projects/Settings/Settings/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/pauloortins/Projects/Settings/Settings/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/pauloortins/Projects/Settings/Settings/obj/iPhone/Debug/actool/partial-info.plist
+/Users/pauloortins/Projects/Settings/Settings/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/pauloortins/Projects/Settings/Settings/obj/iPhone/Debug/
+/Users/pauloortins/Projects/Settings/Settings/bin/iPhone/Debug/Settings.exe.mdb
+/Users/pauloortins/Projects/Settings/Settings/bin/iPhone/Debug/Settings.exe
+/Users/pauloortins/Projects/Settings/Settings/obj/iPhone/Debug/Settings.exe
+/Users/pauloortins/Projects/Settings/Settings/obj/iPhone/Debug/Settings.exe.mdb
